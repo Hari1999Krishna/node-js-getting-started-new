@@ -26,6 +26,6 @@
     "heroku",
     "express"
   ],
-  "license": "MIT"
-  
+  "license": "MIT",
+  "publishConfig":{"registry":"https://krshn.jfrog.io/artifactory/api/npm/krshna-npm-local/"}
 }
